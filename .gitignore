@@ -9,7 +9,12 @@
 
 # Java class files
 *.class
-
+*.DS_Store
+.DS_Store
+*.framework
+*.jar
+*.aar
+.idea/
 # Generated files
 bin/
 gen/
